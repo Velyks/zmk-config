@@ -1,0 +1,12 @@
+file_format: "1"
+id: dactylmanuform
+name: Dactyl Manuform
+type: shield
+url: https://github.com/velyks/zmk-config/
+requires: [nice_nano_v2]
+exposes: []
+features:
+  - keys
+siblings:
+  - dactylmanuform_left
+  - dactylmanuform_right
