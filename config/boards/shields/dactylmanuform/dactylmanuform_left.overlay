@@ -1,7 +1,7 @@
 #include "dactylmanuform.dtsi"
 
 &kscan0 {
-    col_gpios
+    col-gpios
         = <&pro_micro 10 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
         , <&pro_micro 16 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
         , <&pro_micro 14 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
